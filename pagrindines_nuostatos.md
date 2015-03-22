@@ -16,6 +16,8 @@ Kairysis aljansas - tai iniciatyva susidedanti iš asmenų, grupių bei kolektyv
 
 6. Mes remiama valstybės decentralizavimą, piliečių tiesioginį dalyvavimą savivaldoje, savivaldos institucijų stiprinimą, plėtrą ir tiesioginės elektroninės demokratijos naudojimą žemiausiuose savivaldos lygmenyse (pvz. savivaldybių, seniūnijų lygmenyje). Mes remiame ir skatiname tiesioginį piliečių įsitraukimą bei iniciatyvą skirti ir skirstyti lėšas seniūnijų lygmenyje (vadinamasis "Miestiečių biudžetas"), bei didesnį piliečių įtraukimą į savivaldos kontrolės ar audito funkcijas.
 
-7.Mes remiame žmogaus teisių plėtrą lygių teisių, lyčių lygybės, LGBTIQ klausimais. Mes manome kad valstybė privalo užtikrinti lygias, vienodas ir visuotines teises į šeimos statusą, reprodukcinę sveikatą, apsaugą nuo smurto, apsaugą nuo diskriminacijos dėl lyties, tautybės, rasės, religijos ar kitų identiteto aspektų. 
+7. Mes remiame žmogaus teisių plėtrą lygių teisių, lyčių lygybės, LGBTIQ klausimais. Mes manome kad valstybė privalo užtikrinti lygias, vienodas ir visuotines teises į lygų teisinį pripažinimą, reprodukcinę sveikatą, apsaugą nuo smurto, apsaugą nuo diskriminacijos dėl lyties, tautybės, rasės, religijos ar kitų identiteto aspektų.
+
+8.  
 
 
