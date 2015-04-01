@@ -2,6 +2,7 @@ Kas mes esame ir ko mes norime
 
 
 Kairysis aljansas - tai iniciatyva susidedanti iš asmenų, grupių bei kolektyvų, siekiančių sukurti progresyvią kairiąją politinę jėgą.
+
 1. Ši politinė organizacija vadovaujasi laisvės, lygybės ir solidarumo idėjomis ir siekia pakeisti Lietuvą į valstybę, kurioje solidarūs ir laisvi piliečiai gali pasiekti asmeninės laimės ir kolektyvinės gerovės ir saugumo bei socialinio ir ekologinio tvarumo.
 
 2. Mes siekiama sukurti Respubliką, kap viešų diskusijų ir veiksmų erdvę, kurioje lytiškumas, tautybė, rasė ar tikėjimas taptų tik asmens reikalu, o ne valstybės arba visuomenės disciplinavimo objektu.
