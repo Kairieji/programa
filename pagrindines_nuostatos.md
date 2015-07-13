@@ -5,7 +5,7 @@ Kairysis aljansas - tai iniciatyva susidedanti iš asmenų, grupių bei kolektyv
 
 I Būsima politinė organizacija vadovausis laisvės, lygybės ir solidarumo idėjomis ir sieks paversti Lietuvą valstybe, kurioje solidarūs ir laisvi piliečiai gali pasiekti asmeninės laimės ir kolektyvinės gerovės ir saugumo bei socialinio ir ekologinio tvarumo.
 
-II Mes siekiama sukurti Respubliką, viešų diskusijų ir veiksmų erdvę, kurioje lytiškumas, tautybė, rasė ar tikėjimas taptų tik asmeniniu reikalu, o ne valstybės arba visuomenės disciplinavimo objektu.
+II Mes siekiama sukurti valstybę kaip viešų diskusijų ir veiksmų erdvę, kurioje lytiškumas, tautybė, rasė ar tikėjimas taptų tik asmeniniu reikalu, o ne valstybės arba visuomenės disciplinavimo objektu.
 
 III Mes siekiama sukurti ekonomiką, kuri būtų pagrįsta kuo didesniu ekonomikos demokratizavimu bei aiškia, politiškai apspręsta skirtimi tarp sričių, kuriose turi veikti rinkos taisyklės, aktyviu valstybės vaidmeniu užtikrinant visiems vienodą ir sąžiningą rinkos veikimą šiose srityse. Mes siekiame apibrėžti ir atskirti sritis, kurios būtų laikomos viešuoju gėriu ("commons") - taigi dalykais, procesais bei sąvokomis, kuriais mes naudojamės kartu mūsų bendrabūviui kurti - švietimą, mokslą, kultūrą, viešąją erdvę.
 
