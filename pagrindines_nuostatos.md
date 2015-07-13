@@ -48,3 +48,6 @@ Legalizuojami ir liberalizuojami streikai. Įteisinami ir reglamentuojami įmoni
 
 XIV Laikydami kultūra "bendruoju gėriu" mes siekiame užtikrinti visuotinę prieigą prie valstybės finansuojamos/globojamų kultūros gėrybių:
     -sukurti visuotinę integruotą elektroninę biblioteką, kurioje valstybė įsipareigotų publikuoti visas valstybės globojamas autorių teisių nesaugomas/nebesaugomas kultūros vertybes, vertingus archyvinių šaltinių masyvus, visą lituanistinį ir kitokį paveldą esantį jos jurisdikcijoje.
+
+XV Mes siekiame gražinti savivaldą kaip aktyvų veikėją ir dalyvį planuojantį ir įgyvendinat socialiai prieinamo būsto projektus, kurių tikslas būtų ilgalaikė, saugi nuoma, galimai pervystant senuosius daugiabučių rajonus didžiuosiuose Lietuvos miestuose. Mes siūlomas įteisinti namų statybos bendrijas, kaip tarpusavio finansavimo ir bendruomenės kūrimo formas.
+Mes sieksime užtikrinti kad nuomos sutartys būtų patrauktos iš šešėlio ir kad nuomininkai gautų tinkamą įstatyminę apsaugą. Mes remiame viešojo transporto tinklų plėtrą bei galimybes didiesiems miestams įsivesti nemokamo viešojo transporto to mietso gyventojams modelius.
