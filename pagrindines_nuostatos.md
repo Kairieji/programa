@@ -41,6 +41,14 @@ Sieksime, kad studijos valstybiniuose universitetuose būtų integruotos į moks
 Taip pat siekiame grąžinti prestižą kolegijoms / profesinėms mokykloms, kad jas baigę žmonės jaustųsi oriai, galėdami įsilieti į darbo rinką praktinėmis žiniomis. 
 Ši dviejų lygių sistema, kurioje koleginis mokslas taptų visiškai integruotas į darbo rinką ir būtų visiškai lankstus ir prisitaikantis prie darbo vietų, kurios jau yra, leistų Lietuvai išgyventi sąlygomis, kai artimiausius 2‒3 dešimtmečius Lietuvoje nusimato nuolatinės ekonominės perturbacijos dėl į Lietuvą "outsoursinamų" industrijų kaitos.
 
+##Kultūra
+Mes siekiame, kad dalis kultūrai skirtų projektų būtų tinkamai finansuojami. Galutinį sprendžiamąjį balsą dėl finansavimo turi turėti atitinkamų sričių ekspertų komisija, pateikianti aiškų ir argumentuotą jų vertinimą dėl galimos išliekamosios vertės. 
+Siekiame, kad kultūrinės spaudos finansavimas būtų atskiras ir atskirtas nuo įvairios paskirties leidinių priedų finansavimo, tuo pačiu neužkertant jiems galimybės būti finansuojamiems pagal kitas programas.
+Siekiame, kad profesionalioji kultūra nebūtų sutelkta vien tik didžiuosiuose miestuose (Vilniuje, Kaune, Šiauliuose, Klaipėdoje...), bet ir regionuose. Dėmesys turi būti padalytas ir išskirstytas tiek profesionaliajam menui, tiek mėgėjų menui.
+Bibliotekų fondai turi išlikti nemokami ir lengvai prieinami bet kuriam Lietuvos piliečiui.
+Mažų miestelių ir kaimų bibliotekos neturi būti naikinamos vien dėl sumažėjusio skaitytojų kiekio. 
+Laikydami kultūrą „bendruoju gėriu“ siekiame užtikrinti visuotinę prieigą prie valstybės finansuojamų /globojamų kultūros gėrybių: sukurti visuotinę integruotą elektroninę biblioteką, kurioje valstybė įsipareigotų publikuoti visas valstybės globojamas autorių teisių nesaugomas / nebesaugomas kultūros vertybes, vertingus archyvinių šaltinių masyvus, visą lituanistinį ir kitokį paveldą, esantį jos jurisdikcijoje."
+
 ##Krašto apsauga
 
 Mes manome, kad krašto apsauga turi būti paremta aiškia ir ilgalaike strategija, paremta tikslais kuriuos norima pasiekti, o ne finansavimo dydžiu, kurį norima ir siekiama išleisti. Mes manome, kad 2% BVP dydžio finansavimas krašto gynybai neturėtų būti tikslas, tikslu turėtų tapti valstybės ir visuomenės saugumas. Finansavimas turi būti užtikrinamas tokio dydžio, kad būtų pasiektas valstybės saugumas, o ne iš anksto nustatytas dirbtinis finansavimo tikslas išreikštas procentais nuo BVP. 
@@ -75,9 +83,7 @@ Diversifikuojamas minimalios algos dydis, įvedant "pragyvenamą algą", taikom�
 Legalizuojami ir liberalizuojami streikai. Įteisinami ir reglamentuojami įmonių/profesinių sąjungų pensiniai forndai, sudaromi finansiniai mechanizmai įmonėms ir organizacijoms į juos  mokėti "atidėtą atlyginimą".
 
 
-##Kultūra
-Laikydami kultūra "bendruoju gėriu" mes siekiame užtikrinti visuotinę prieigą prie valstybės finansuojamos/globojamų kultūros gėrybių:
-    -sukurti visuotinę integruotą elektroninę biblioteką, kurioje valstybė įsipareigotų publikuoti visas valstybės globojamas autorių teisių nesaugomas/nebesaugomas kultūros vertybes, vertingus archyvinių šaltinių masyvus, visą lituanistinį ir kitokį paveldą esantį jos jurisdikcijoje.
+
 
 ##Būstas
 Mes siekiame gražinti savivaldą kaip aktyvų veikėją ir dalyvį planuojantį ir įgyvendinat socialiai prieinamo būsto projektus, kurių tikslas būtų ilgalaikė, saugi nuoma, galimai pervystant senuosius daugiabučių rajonus didžiuosiuose Lietuvos miestuose. Mes siūlomas įteisinti namų statybos bendrijas, kaip tarpusavio finansavimo ir bendruomenės kūrimo formas.
